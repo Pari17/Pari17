@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Pari17/Pari17/blob/main/Header.jpg?raw=true)
 
 ### Hi there 👋
 
