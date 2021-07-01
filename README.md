@@ -1,4 +1,4 @@
-<img src="https://github.com/Pari17/Pari17/blob/main/Header.jpg" alt="Pari's Header"></a>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ### Hi there 👋
 
