@@ -1,4 +1,4 @@
-![alt text](https://github.com/Pari17/Pari17/blob/main/Header.jpg?raw=true)
+![Screenshot](Header.jpg)
 
 ### Hi there 👋
 
