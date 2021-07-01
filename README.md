@@ -1,4 +1,5 @@
-![Screenshot](Header.jpg)
+![Screenshot](Header.JPG)
+
 
 ### Hi there 👋
 
